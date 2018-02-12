@@ -1,2 +1,3 @@
 # kalipto
-A steganographic chat over Twitter, in Python.
+
+A steganographic chat over Twitter, in Python 3.
