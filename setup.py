@@ -8,7 +8,7 @@ setup(name='kalipto',
       author_email='rober.reale@gmail.com',
       license='MIT',
       packages=['kalipto'],
-      install_requires=['stegano','twitter','wget'],
+      install_requires=['gossipy','stegano','twitter','wget'],
       entry_points = {
           'console_scripts': ['kalipto=kalipto.cmdline:main'],
       },
